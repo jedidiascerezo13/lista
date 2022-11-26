@@ -11,3 +11,11 @@ http://bross.aesat.com:8090/Jofr3/N4VaL/130042
 http://bross.aesat.com:8090/Jofr3/N4VaL/130299
 #EXTINF:-1 tvg-id="" tvg-name="D_GO" tvg-logo="https://i.pinimg.com/originals/00/63/15/00631561f4895a630508c2b0d0bdb4d1.png" group-title="⚽️ QATAR 2022 ⚽️",D_GO
 http://bross.aesat.com:8090/Jofr3/N4VaL/130043
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE" tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="MUSICALES",MTV LIVE
+http://bross.aesat.com:8090/Jofr3/N4VaL/6597
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NICKMUSIC HD" tvg-logo="" group-title="MUSICALES",NICKMUSIC HD
+http://bross.aesat.com:8090/Jofr3/N4VaL/6637
+#EXTINF:-1 tvg-id="MTVU.us" tvg-name="MTV U HD" tvg-logo="" group-title="MUSICALES",MTV U HD
+http://bross.aesat.com:8090/Jofr3/N4VaL/6638
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC HD" tvg-logo="" group-title="MUSICALES",MTV CLASSIC HD
+http://bross.aesat.com:8090/Jofr3/N4VaL/6639
